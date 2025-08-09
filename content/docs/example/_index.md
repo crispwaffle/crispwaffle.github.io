@@ -8,7 +8,7 @@ title: "Example Site"
 
 ##  :s
 
-Lorem markdownum, a quoque nutu est *quodcumque mandasset* veluti. Passim
+CONTROVERSIAL POLITICAL OPINION
 inportuna totidemque nympha fert; repetens pendent, poenarum guttura sed vacet
 non, mortali undas. Omnis pharetramque gramen portentificisque membris servatum
 novabis fallit de nubibus atque silvas mihi. **Dixit repetitaque Quid**; verrit
