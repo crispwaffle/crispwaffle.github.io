@@ -4,12 +4,9 @@ bookFlatSection: true
 title: "Example Site"
 ---
 
-# Introduction
+# About
 
-##  :s
-
-CONTROVERSIAL POLITICAL OPINION
-inportuna totidemque nympha fert; repetens pendent, poenarum guttura sed vacet
+Hi! I'm Freeman and welcome to my webpage. inportuna totidemque nympha fert; repetens pendent, poenarum guttura sed vacet
 non, mortali undas. Omnis pharetramque gramen portentificisque membris servatum
 novabis fallit de nubibus atque silvas mihi. **Dixit repetitaque Quid**; verrit
 longa; sententia [mandat](http://pastor-ad.io/questussilvas) quascumque nescio
